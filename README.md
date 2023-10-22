@@ -42,4 +42,5 @@ Il y a une classe par table (Piece, Photo, Biens, Equipements) Y compris pour l'
 Ensuite il y a les controlleurs qui font le lien entre les views, les autres controlleurs et surtout :
 
 DataBase, classe indispensable, qui gère toute les interactions avec la base
+
 FTPManager, classe qui gère toutes les interactions en FTP, pour les photos (uploader et supprimer)

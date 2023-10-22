@@ -49,9 +49,9 @@ FTPManager, classe qui gère toutes les interactions en FTP, pour les photos (up
 # Pré-requis :
 
 Il y a quelques pré-requis pour lancer le programme (et leur lien de dl parceque des fois c'est difficile de les trouver) :
--JBcrypt (https://cdn.discordapp.com/attachments/1016290977998176287/1165261948384981043/jBCrypt-0.4.3.jar)
--Apache commons net (https://cdn.discordapp.com/attachments/626086445215645710/1165707716711428267/commons-net-3.10.0-bin.zip)
--JDBC (https://cdn.discordapp.com/attachments/1016290977998176287/1165271945613422703/mysql-connector-java-8.0.27.jar)
+1. JBcrypt (https://cdn.discordapp.com/attachments/1016290977998176287/1165261948384981043/jBCrypt-0.4.3.jar)
+1. Apache commons net (https://cdn.discordapp.com/attachments/626086445215645710/1165707716711428267/commons-net-3.10.0-bin.zip)
+1. JDBC (https://cdn.discordapp.com/attachments/1016290977998176287/1165271945613422703/mysql-connector-java-8.0.27.jar)
 
 Voir aussi les identifiants de connexion et ip à modifier.
 Si vous avez la flemme (ce que je peux comprendre, moi aussi j'ai la flemme) Ou que vous voulez voir

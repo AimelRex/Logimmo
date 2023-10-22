@@ -13,12 +13,10 @@ Ensuite, voici le déroulement des pages :
 
 Login gère la connexion
 
-|
 V
 
 App affiche tous les biens, quand on clique sur un bien on peut en voir une preview
 
-|
 V
 
 AddBien ici c'est soit pour modifier un bien, soit pour en ajouter
@@ -29,17 +27,15 @@ si c'est pour ajouter, ça masque les pièces et les photos
 (AddPhoto accessible de toute les pages à partir de ce stade, 
 permet d'ajouter simplement une photo en FTP)
 
-|
 V
 
 AddPiece agit dans le meme principe que AddBien mais pour les pieces
 
-|
 V
 
 AddEquipement agit dans le meme principe que AddBien mais pour les equipements
 
-#Les classes :
+# Les classes :
 
 Il y a une classe par table (Piece, Photo, Biens, Equipements) Y compris pour l'autre base SQLLogException.
 

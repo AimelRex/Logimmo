@@ -37,8 +37,6 @@ AddEquipement agit dans le meme principe que AddBien mais pour les equipements
 
 # Les classes :
 
-C'est basé sur du MVC;
-
 Il y a une classe par table (Piece, Photo, Biens, Equipements) Y compris pour l'autre base SQLLogException.
 
 Ensuite il y a les controlleurs qui font le lien entre les views, les autres controlleurs et surtout :
@@ -46,3 +44,25 @@ Ensuite il y a les controlleurs qui font le lien entre les views, les autres con
 DataBase, classe indispensable, qui gère toute les interactions avec la base
 
 FTPManager, classe qui gère toutes les interactions en FTP, pour les photos (uploader et supprimer)
+
+
+# Pré-requis :
+
+Il y a quelques pré-requis pour lancer le programme (et leur lien de dl parceque des fois c'est difficile de les trouver) :
+-JBcrypt (https://cdn.discordapp.com/attachments/1016290977998176287/1165261948384981043/jBCrypt-0.4.3.jar)
+-Apache commons net (https://cdn.discordapp.com/attachments/626086445215645710/1165707716711428267/commons-net-3.10.0-bin.zip)
+-JDBC (https://cdn.discordapp.com/attachments/1016290977998176287/1165271945613422703/mysql-connector-java-8.0.27.jar)
+
+Voir aussi les identifiants de connexion et ip à modifier.
+Si vous avez la flemme (ce que je peux comprendre, moi aussi j'ai la flemme) Ou que vous voulez voir
+la totale, avec des imgaes prêtes et la base prêtes et toouuuut
+
+Voici une VM toute prête : (g pas le lien encore)
+
+Service | Login | Pass
+
+Phpmyadmin | oui | oui
+
+Machine | root | 0550002D
+
+

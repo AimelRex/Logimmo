@@ -38,3 +38,12 @@ AddPiece agit dans le meme principe que AddBien mais pour les pieces
 V
 
 AddEquipement agit dans le meme principe que AddBien mais pour les equipements
+
+#Les classes :
+
+Il y a une classe par table (Piece, Photo, Biens, Equipements) Y compris pour l'autre base SQLLogException.
+
+Ensuite il y a les controlleurs qui font le lien entre les views, les autres controlleurs et surtout :
+
+DataBase, classe indispensable, qui gère toute les interactions avec la base
+FTPManager, classe qui gère toutes les interactions en FTP, pour les photos (uploader et supprimer)

@@ -37,6 +37,8 @@ AddEquipement agit dans le meme principe que AddBien mais pour les equipements
 
 # Les classes :
 
+C'est basé sur du MVC;
+
 Il y a une classe par table (Piece, Photo, Biens, Equipements) Y compris pour l'autre base SQLLogException.
 
 Ensuite il y a les controlleurs qui font le lien entre les views, les autres controlleurs et surtout :

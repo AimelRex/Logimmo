@@ -66,6 +66,8 @@ Il y a quelques pré-requis pour lancer le programme (et leur lien de dl parcequ
 1. JBcrypt (https://cdn.discordapp.com/attachments/1016290977998176287/1165261948384981043/jBCrypt-0.4.3.jar)
 1. Apache commons net (https://cdn.discordapp.com/attachments/626086445215645710/1165707716711428267/commons-net-3.10.0-bin.zip)
 1. JDBC (https://cdn.discordapp.com/attachments/1016290977998176287/1165271945613422703/mysql-connector-java-8.0.27.jar)
+1. Base de données du projet (https://cdn.discordapp.com/attachments/648842436830953486/1165996357790728272/tpImmo.sql)
+1. Base de données des logs (https://cdn.discordapp.com/attachments/648842436830953486/1165996292632232026/logsTpImmo.sql)
 
 Voir aussi les identifiants de connexion et ip à modifier.
 Si vous avez la flemme (ce que je peux comprendre, moi aussi j'ai la flemme) Ou que vous voulez voir

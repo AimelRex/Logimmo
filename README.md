@@ -23,12 +23,15 @@ V
 
 App affiche tous les biens, quand on clique sur un bien on peut en voir une preview
 
+![Page principale](https://cdn.discordapp.com/attachments/648842436830953486/1165989945714954311/image.png)
+
 V
 
 AddBien ici c'est soit pour modifier un bien, soit pour en ajouter
 si c'est pour modifier, ça précharge les champs
 si c'est pour ajouter, ça masque les pièces et les photos
 
+![Ajout de bien](https://cdn.discordapp.com/attachments/648842436830953486/1165990231753887744/image.png)
 
 (AddPhoto accessible de toute les pages à partir de ce stade, 
 permet d'ajouter simplement une photo en FTP)
@@ -37,9 +40,14 @@ V
 
 AddPiece agit dans le meme principe que AddBien mais pour les pieces
 
+![Ajout de pièce](https://cdn.discordapp.com/attachments/648842436830953486/1165990459336830976/image.png)
+
 V
 
 AddEquipement agit dans le meme principe que AddBien mais pour les equipements
+
+![Ajout d'équipement](https://cdn.discordapp.com/attachments/648842436830953486/1165990901563273286/image.png)
+
 
 # Les classes :
 

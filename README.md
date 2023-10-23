@@ -74,6 +74,7 @@ Si vous avez la flemme (ce que je peux comprendre, moi aussi j'ai la flemme) Ou 
 la totale, avec des imgaes prêtes et la base prêtes et toouuuut
 
 Voici une VM toute prête : (https://cloud.varin.ovh/s/WGm7HD5mExn4Nd6)
+ et le lien pour vérifier si le cloud fonctionne bien (https://status.varin.ovh/)
 
 Service | Login | Pass
 

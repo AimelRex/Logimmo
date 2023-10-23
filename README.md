@@ -73,7 +73,7 @@ Voir aussi les identifiants de connexion et ip à modifier.
 Si vous avez la flemme (ce que je peux comprendre, moi aussi j'ai la flemme) Ou que vous voulez voir
 la totale, avec des imgaes prêtes et la base prêtes et toouuuut
 
-Voici une VM toute prête : (g pas le lien encore)
+Voici une VM toute prête : (https://cloud.varin.ovh/s/WGm7HD5mExn4Nd6)
 
 Service | Login | Pass
 

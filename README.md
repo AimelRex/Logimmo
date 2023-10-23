@@ -36,6 +36,8 @@ si c'est pour ajouter, ça masque les pièces et les photos
 (AddPhoto accessible de toute les pages à partir de ce stade, 
 permet d'ajouter simplement une photo en FTP)
 
+![Ajout d'une photo](https://cdn.discordapp.com/attachments/648842436830953486/1166089818388836513/image.png)
+
 V
 
 AddPiece agit dans le meme principe que AddBien mais pour les pieces

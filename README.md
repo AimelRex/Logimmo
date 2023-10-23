@@ -65,4 +65,6 @@ Phpmyadmin | oui | oui
 
 Machine | root | 0550002D
 
+Logimmo | a | a
+
 

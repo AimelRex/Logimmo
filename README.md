@@ -23,7 +23,7 @@ V
 
 App affiche tous les biens, quand on clique sur un bien on peut en voir une preview
 
-![Page principale](https://cdn.discordapp.com/attachments/648842436830953486/1165989945714954311/image.png)
+![Page principale](https://cdn.discordapp.com/attachments/648842436830953486/1165991199061061632/image.png)
 
 V
 

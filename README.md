@@ -5,6 +5,10 @@ Logimmo c'est une appli de gestion de biens.
 Chaque bien est constitué de pièces, elles mêmes constitués d'équipements.
 Chaque élément peut être lier à une photo.
 
+A savoir !! L'appli n'est pas totalement fini, elle est fonctionnelle
+mais l'affichage n'est pas complétement dynamique (d'une page fille à une page grand-mère)
+Mais tout se passe correctement (relancer l'appli)
+
 # COMMENT CA MARCHE ??
 
 alors déjà, bon courage pour la lecture (s'il faut je peux vous payer un café)
